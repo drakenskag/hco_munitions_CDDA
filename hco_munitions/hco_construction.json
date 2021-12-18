@@ -2,7 +2,7 @@
     {
         "type": "construction",
         "id": "constr_case_press",
-		"group": "hco_case_press_constr",
+		"group": "hco_cp_constr",
         "//": "The H Co. Case Press. A compact, programmable casing press that takes care of extruding, pressing, and shaping of various ammunition casings as part of a larger, automated, munitions-manufacturing process.",
         "category": "FURN",
         "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ] ],
@@ -28,6 +28,7 @@
 			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
 			[ [ "circuit", 2 ] ]
 		],
+		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_case_press"
@@ -35,7 +36,7 @@
     {
         "type": "construction",
         "id": "constr_bullet_extruder",
-		"group": "hco_bullet_extruder_constr",
+		"group": "hco_be_constr",
         "//": "The H Co. Bullet Extruder. Compact lead alloy creation, shaping and electroplating to create various sizes of ammunition precursors.",
         "category": "FURN",
         "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ], [ "cooking", 5 ] ],
@@ -62,6 +63,7 @@
 			[ [ "circuit", 2 ] ],
 			[ [ "crucible", 1 ] ]
 		],
+		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_bullet_extruder"
@@ -69,7 +71,7 @@
     {
         "type": "construction",
         "id": "constr_priming_press",
-		"group": "hco_priming_press_constr",
+		"group": "hco_pp_constr",
         "//": "The H Co. Priming Press. One of the most compact (and dangerous) primer shaping and pressing environments in the modern age. A small sign on the side of the machine warns against smoking or starting fires in the vicinity of the machine. You ignore the warning because the worse that could happen is lung cancer, right?",
         "category": "FURN",
         "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ], [ "cooking", 8 ] ],
@@ -95,6 +97,7 @@
 			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
 			[ [ "circuit", 2 ] ]
 		],
+		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_priming_press"
@@ -102,7 +105,7 @@
     {
         "type": "construction",
         "id": "constr_powder_turret",
-		"group": "hco_powder_turret_constr",
+		"group": "hco_pt_constr",
         "//": "The H Co. Powder Turret. A compact, automated ammunition loading solution from H Co. You wonder why handloaded rounds are so much worse than the factory stuff, but now that you have this you have no reason to handload again.",
         "category": "FURN",
         "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ], [ "gun", 5 ] ],
@@ -128,6 +131,7 @@
 			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
 			[ [ "circuit", 2 ] ]
 		],
+		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_powder_turret"

@@ -721,26 +721,6 @@
     {
         "type": "recipe",
 		"id_suffix": "hco",
-        "result": "22_cphp",
-        "category": "CC_H CO",
-        "subcategory": "CSC_H CO_AMMO",
-        "skill_used": "fabrication",
-        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
-        "difficulty": 1,
-        "time": "8 m",
-        "charges": 80,
-        "reversible": false,
-        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
-        "components": [
-			[ [ "22_casing", 80 ] ],
-            [ [ "hco_bullet_m", 80 ] ],
-            [ [ "hco_powder", 40 ] ],
-			[ [ "hco_primer", 80 ] ]
-        ]
-    },
-    {
-        "type": "recipe",
-		"id_suffix": "hco",
         "result": "22_lr",
         "category": "CC_H CO",
         "subcategory": "CSC_H CO_AMMO",
