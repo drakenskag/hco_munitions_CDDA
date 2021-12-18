@@ -1,0 +1,11 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "h_munitions",
+        "name": "H Co. Munitions",
+        "authors": [ "skagling" ],
+        "description": "Adds an automated way to bulk craft factory-grade ammunition. H Co. Munitions factories contain movable furniture that will allow the production of factory grade ammuntion. Advanced pre-Cataclysm tech, this production line is all but impossible to build without the individual blueprints for each machine.",
+        "category": "buildings",
+        "dependencies": [ "dda" ]
+    }
+]

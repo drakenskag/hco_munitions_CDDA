@@ -1,0 +1,30 @@
+[
+    {
+        "id": "hco_casepress",
+        "type": "TOOL",
+        "name": { "str": "H Co. Case Press" },
+        "description": "Placeholder item. If you're seeing this you're cheating. D:",
+        "symbol": "C"
+    },
+    {
+        "id": "hco_bulletextruder",
+        "type": "TOOL",
+        "name": { "str": "H Co. Bullet Extruder" },
+        "description": "Placeholder item. If you're seeing this you're cheating. D:",
+        "symbol": "B"
+    },
+    {
+        "id": "hco_primingpress",
+        "type": "TOOL",
+        "name": { "str": "H Co. Priming Press" },
+        "description": "Placeholder item. If you're seeing this you're cheating. D:",
+        "symbol": "P"
+    },
+    {
+        "id": "hco_powderturret",
+        "type": "TOOL",
+        "name": { "str": "H Co. Powder Turret" },
+        "description": "Placeholder item. If you're seeing this you're cheating. D:",
+        "symbol": "T"
+    }
+]

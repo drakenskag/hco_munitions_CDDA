@@ -1,0 +1,131 @@
+[
+    {
+        "type": "construction",
+        "id": "constr_case_press",
+        "description": "The H Co. Case Press. A compact, programmable casing press that takes care of extruding, pressing, and shaping of various ammunition casings as part of a larger, automated, munitions-manufacturing process.",
+        "category": "FURN",
+        "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ] ],
+        "time": "12 h",
+        "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+		"using": [
+			[ "welding_standard", 20 ],
+			[ "soldering_standard", 30 ],
+			[ "cutting_wire_standard", 1 ]
+		],
+		"tools": [
+			[ [ "mold_plastic", -1 ] ]
+		],
+		"components": [ 
+			[ [ "glass_sheet", 4 ], [ "reinforced_glass_sheet", 4 ] ],
+			[ [ "frame", 4 ] ],
+			[ [ "spring", 20 ] ],
+			[ [ "steel_lump", 12 ], [ "steel_chunk", 36 ], [ "scrap", 108 ] ],
+			[ [ "sheet_metal", 6 ] ],
+			[ [ "wire", 20 ] ],
+			[ [ "cable", 50 ] ],
+			[ [ "plastic_chunk", 5 ], [ "plastic_sheet", 1 ] ],
+			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
+			[ [ "circuit", 2 ] ]
+		],
+        "pre_note": "furn description",
+        "pre_special": "check_empty",
+        "post_terrain": "f_hco_case_press"
+    },
+    {
+        "type": "construction",
+        "id": "constr_bullet_extruder",
+        "description": "The H Co. Bullet Extruder. Compact lead alloy creation, shaping and electroplating to create various sizes of ammunition precursors.",
+        "category": "FURN",
+        "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ], [ "cooking", 5 ] ],
+        "time": "12 h",
+        "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+		"using": [
+			[ "welding_standard", 20 ],
+			[ "soldering_standard", 30 ],
+			[ "cutting_wire_standard", 1 ]
+		],
+		"tools": [
+			[ [ "mold_plastic", -1 ] ]
+		],
+		"components": [ 
+			[ [ "reinforced_glass_sheet", 4 ] ],
+			[ [ "frame", 4 ] ],
+			[ [ "spring", 10 ] ],
+			[ [ "steel_lump", 12 ], [ "steel_chunk", 36 ], [ "scrap", 108 ] ],
+			[ [ "sheet_metal", 6 ] ],
+			[ [ "wire", 30 ] ],
+			[ [ "cable", 50 ] ],
+			[ [ "plastic_chunk", 5 ], [ "plastic_sheet", 1 ] ],
+			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
+			[ [ "circuit", 2 ] ],
+			[ [ "crucible", 1 ] ]
+		],
+        "pre_note": "furn description",
+        "pre_special": "check_empty",
+        "post_terrain": "f_hco_bullet_extruder"
+    },
+    {
+        "type": "construction",
+        "id": "constr_priming_press",
+        "description": "The H Co. Priming Press. One of the most compact (and dangerous) primer shaping and pressing environments in the modern age. A small sign on the side of the machine warns against smoking or starting fires in the vicinity of the machine. You ignore the warning because the worse that could happen is lung cancer, right?",
+        "category": "FURN",
+        "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ], [ "cooking", 8 ] ],
+        "time": "12 h",
+        "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+		"using": [
+			[ "welding_standard", 20 ],
+			[ "soldering_standard", 30 ],
+			[ "cutting_wire_standard", 1 ]
+		],
+		"tools": [
+			[ [ "mold_plastic", -1 ] ]
+		],
+		"components": [ 
+			[ [ "reinforced_glass_sheet", 4 ] ],
+			[ [ "frame", 4 ] ],
+			[ [ "spring", 10 ] ],
+			[ [ "steel_lump", 12 ], [ "steel_chunk", 36 ], [ "scrap", 108 ] ],
+			[ [ "sheet_metal", 6 ] ],
+			[ [ "wire", 30 ] ],
+			[ [ "cable", 50 ] ],
+			[ [ "plastic_chunk", 20 ], [ "plastic_sheet", 4 ] ],
+			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
+			[ [ "circuit", 2 ] ]
+		],
+        "pre_note": "furn description",
+        "pre_special": "check_empty",
+        "post_terrain": "f_hco_priming_press"
+    },
+    {
+        "type": "construction",
+        "id": "constr_powder_turret",
+        "description": "The H Co. Powder Turret. A compact, automated ammunition loading solution from H Co. You wonder why handloaded rounds are so much worse than the factory stuff, but now that you have this you have no reason to handload again.",
+        "category": "FURN",
+        "required_skills": [ [ "fabrication", 9 ], [ "electronics", 8 ], [ "gun", 5 ] ],
+        "time": "12 h",
+        "qualities": [ [ { "id": "SCREW", "level": 1 } ] ],
+		"using": [
+			[ "welding_standard", 20 ],
+			[ "soldering_standard", 30 ],
+			[ "cutting_wire_standard", 1 ]
+		],
+		"tools": [
+			[ [ "mold_plastic", -1 ] ]
+		],
+		"components": [ 
+			[ [ "glass_sheet", 4 ], [ "reinforced_glass_sheet", 4 ] ],
+			[ [ "frame", 4 ] ],
+			[ [ "spring", 20 ] ],
+			[ [ "steel_lump", 12 ], [ "steel_chunk", 36 ], [ "scrap", 108 ] ],
+			[ [ "sheet_metal", 6 ] ],
+			[ [ "wire", 30 ] ],
+			[ [ "cable", 50 ] ],
+			[ [ "plastic_chunk", 20 ], [ "plastic_sheet", 4 ] ],
+			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
+			[ [ "circuit", 2 ] ]
+		],
+        "pre_note": "furn description",
+        "pre_special": "check_empty",
+        "post_terrain": "f_hco_powder_turret"
+    }
+]

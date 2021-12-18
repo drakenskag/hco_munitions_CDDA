@@ -1,0 +1,2022 @@
+[
+    {
+        "type": "recipe_category",
+        "id": "CC_H CO",
+        "recipe_subcategories": [
+            "CSC_ALL",
+            "CSC_H CO_AMMO",
+            "CSC_H CO_COMPONENTS"
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "223_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "22_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "3006_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "270win_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "300_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "308_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_51_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "32_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "38_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "38super_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "40_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "10mm_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "44_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "454_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "45_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "45colt_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "4570_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "46mm_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "460_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "500_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "50_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "545_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "57mm_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "700nx_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762R_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_25_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9mm_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "357sig_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "357mag_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9x18mm_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "380_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "300blk_casing",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_cpress", 1 ] ],
+        "components": [
+            [ [ "chem_zinc_powder", 3 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "hco_bullet_s",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+		"charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_bext", 1 ] ],
+        "components": [
+            [ [ "lead", 95 ] ],
+            [ [ "tin", 5 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "hco_bullet_m",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+		"charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_bext", 1 ] ],
+        "components": [
+            [ [ "lead", 95 ] ],
+            [ [ "tin", 5 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "hco_bullet_l",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 3 ], [ "computer", 3 ] ],
+        "difficulty": 1,
+        "time": "30 m",
+		"charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_bext", 1 ] ],
+        "components": [
+            [ [ "lead", 95 ] ],
+            [ [ "tin", 5 ] ],
+            [ [ "copper", 1 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "hco_primer",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "cooking", 8 ] ],
+        "difficulty": 1,
+        "time": "60 m",
+		"charges": 100,
+        "reversible": false,
+		"qualities": [ { "id": "CHEM", "level": 3 } ],
+        "components": [
+            [ [ "magnesium", 100 ] ],
+            [ [ "chem_nitric_acid", 3 ] ],
+            [ [ "lead", 100 ] ]
+        ],
+		"byproducts": [ [ "magnesium", 10 ] ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "hco_powder",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_COMPONENTS",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 1 ], [ "cooking", 8 ] ],
+        "difficulty": 1,
+        "time": "60 m",
+		"charges": 100,
+        "reversible": false,
+		"qualities": [ { "id": "CHEM", "level": 3 } ],
+        "components": [
+            [ [ "cooking_oil", 3 ], [ "cooking_oil2", 3 ] ],
+            [ [ "chem_carbide", 100 ], [ "magnesium", 100 ] ],
+            [ [ "chem_potassium_chloride", 100 ] ]
+        ],
+		"//": "[ [ "chem_glycerol", 750 ] ] [ [ "nitrogen_tank", 1 ] ],"
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "10mm_fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "10mm_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "22_cphp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 80,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "22_casing", 80 ] ],
+            [ [ "hco_bullet_m", 80 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "22_lr",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 80,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "22_casing", 80 ] ],
+            [ [ "hco_bullet_m", 80 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "22_ratshot",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "10 m",
+        "charges": 100,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "22_casing", 100 ] ],
+            [ [ "plastic_chunk", 1 ] ],
+            [ [ "hco_powder", 50 ] ],
+			[ [ "hco_primer", 100 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "32_acp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 80,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "32_casing", 80 ] ],
+            [ [ "hco_bullet_s", 80 ] ],
+            [ [ "hco_powder", 20 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "38_fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "38_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "38_special",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "38_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "38super_fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "38super_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "38_super",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "38super_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "40fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "40_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "40sw",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "40_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "44magnum",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "2 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "44_casing", 20 ] ],
+            [ [ "hco_bullet_s", 20 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "44fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "2 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "44_casing", 20 ] ],
+            [ [ "hco_bullet_s", 20 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "45_jhp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "3 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "45_casing", 30 ] ],
+            [ [ "hco_bullet_s", 30 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 30 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "45_acp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 7 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "3 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "45_casing", 30 ] ],
+            [ [ "hco_bullet_s", 30 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 30 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "45_super",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 8 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "1 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "45_casing", 10 ] ],
+            [ [ "hco_bullet_s", 10 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 10 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "45colt_jhp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "45colt_casing", 40 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "46mm",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "46mm_casing", 40 ] ],
+            [ [ "hco_bullet_m", 40 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "50bmg",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 8 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "25 m",
+        "charges": 25,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "50_casing", 25 ] ],
+            [ [ "hco_bullet_l", 25 ] ],
+            [ [ "hco_powder", 50 ] ],
+			[ [ "hco_primer", 100 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "50_incendiary",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 10 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "20 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "50_casing", 10 ] ],
+            [ [ "hco_bullet_l", 10 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "50match",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 9 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "10 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "50_casing", 10 ] ],
+            [ [ "hco_bullet_l", 10 ] ],
+            [ [ "hco_powder", 20 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "50ss",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 10 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "10 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "50_casing", 10 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 20 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "50_mk211",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 10 ], [ "computer", 10 ] ],
+        "difficulty": 1,
+        "time": "50 m",
+        "charges": 25,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "50_casing", 25 ] ],
+            [ [ "hco_bullet_l", 25 ] ],
+            [ [ "hco_powder", 100 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "57mm",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "57mm_casing", 40 ] ],
+            [ [ "hco_bullet_m", 40 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9mmfmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9mm_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9mm",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9mm_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9mmP",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 25,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9mm_casing", 25 ] ],
+            [ [ "hco_bullet_s", 25 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 25 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9mmP2",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 7 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9mm_casing", 10 ] ],
+            [ [ "hco_bullet_s", 10 ] ],
+            [ [ "hco_powder", 15 ] ],
+			[ [ "hco_primer", 10 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9x18mmfmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9x18mm_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9x18mm",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9x18mm_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "9x18mmP2",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 25,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "9x18mm_casing", 25 ] ],
+            [ [ "hco_bullet_s", 25 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 25 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "223",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "223_casing", 30 ] ],
+            [ [ "hco_bullet_m", 30 ] ],
+            [ [ "hco_powder", 30 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "556",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "223_casing", 30 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 30 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "556_incendiary",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "223_casing", 30 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 45 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "270win_jsp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "270win_casing", 20 ] ],
+            [ [ "hco_bullet_m", 20 ] ],
+            [ [ "hco_powder", 20 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "300_winmag",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "2 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "300_casing", 10 ] ],
+            [ [ "hco_bullet_m", 10 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "300blk",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 7 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "300blk_casing", 30 ] ],
+            [ [ "hco_bullet_m", 30 ] ],
+            [ [ "hco_powder", 30 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "300blk_ss",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 7 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "300blk_casing", 30 ] ],
+            [ [ "hco_bullet_m", 30 ] ],
+            [ [ "hco_powder", 45 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "308",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "308_casing", 20 ] ],
+            [ [ "hco_bullet_m", 20 ] ],
+            [ [ "hco_powder", 20 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_51",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_51_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 20 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_51",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_51_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 30 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "357mag_fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "357mag_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "357mag_jhp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "357mag_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "357sig_fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "357sig_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "357sig_jhp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "357sig_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "380_FMJ",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 2 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "380_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "380_JHP",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "5 m",
+        "charges": 50,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "380_casing", 50 ] ],
+            [ [ "hco_bullet_s", 50 ] ],
+            [ [ "hco_powder", 25 ] ],
+			[ [ "hco_primer", 50 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "454_Casull",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "2 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "454_casing", 20 ] ],
+            [ [ "hco_bullet_s", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "460_fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "2 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "460_casing", 20 ] ],
+            [ [ "hco_bullet_s", 20 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "460_rowland",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "2 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "460_casing", 20 ] ],
+            [ [ "hco_bullet_s", 20 ] ],
+            [ [ "hco_powder", 10 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "500_Magnum",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "pistol", 9 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "20 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "500_casing", 20 ] ],
+            [ [ "hco_bullet_s", 40 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "545",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "545_casing", 30 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 45 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "545_ap",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 7 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "545_casing", 30 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 45 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "700nx",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 8 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "10 m",
+        "charges": 10,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "700nx_casing", 10 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 20 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_m43",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_casing", 30 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 45 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_m87",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "6 m",
+        "charges": 30,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_casing", 30 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 45 ] ],
+			[ [ "hco_primer", 60 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_54R",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762R_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_25",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_25_casing", 40 ] ],
+            [ [ "hco_bullet_l", 40 ] ],
+            [ [ "hco_powder", 80 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_25hot",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_25_casing", 40 ] ],
+            [ [ "hco_bullet_l", 40 ] ],
+            [ [ "hco_powder", 80 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "762_25typeP",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "8 m",
+        "charges": 40,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "762_25_casing", 40 ] ],
+            [ [ "hco_bullet_l", 40 ] ],
+            [ [ "hco_powder", 80 ] ],
+			[ [ "hco_primer", 80 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "3006",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "3006_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "3006fmj",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 5 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "3006_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "3006_incendiary",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 6 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "3006_casing", 20 ] ],
+            [ [ "hco_bullet_l", 30 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "4570_sp",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 3 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "3006_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "4570_low",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 2 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "3006_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    },
+    {
+        "type": "recipe",
+		"id_suffix": "hco",
+        "result": "4570_pen",
+        "category": "CC_H CO",
+        "subcategory": "CSC_H CO_AMMO",
+        "skill_used": "fabrication",
+        "skills_required": [ [ "rifle", 4 ], [ "computer", 8 ] ],
+        "difficulty": 1,
+        "time": "4 m",
+        "charges": 20,
+        "reversible": false,
+        "using": [ [ "req_hco_ppress", 1 ], [ "req_hco_pturret", 1 ] ],
+        "components": [
+			[ [ "3006_casing", 20 ] ],
+            [ [ "hco_bullet_l", 20 ] ],
+            [ [ "hco_powder", 40 ] ],
+			[ [ "hco_primer", 40 ] ]
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "id": "hco_bullet_s",
+        "type": "AMMO",
+        "category": "other",
+        "name": "H Co. Bullet (S)",
+        "description": "A generic bullet that still needs to be shaped into the desired caliber form and design. This particular one is small.",
+        "volume": "0 ml",
+        "weight": "1 g",
+        "ammo_type": "components",
+        "count": 100,
+        "stack_size": 1000,
+        "material": [ 
+            "zinc",
+            "copper"
+        ],
+        "symbol": "-",
+        "color": "red"
+    },
+    {
+        "id": "hco_bullet_m",
+        "type": "AMMO",
+        "category": "other",
+        "name": "H Co. Bullet (M)",
+        "description": "A generic bullet that still needs to be shaped into the desired caliber form and design. This one seems to be of average size.",
+        "volume": "0 ml",
+        "weight": "1 g",
+        "ammo_type": "components",
+        "count": 50,
+        "stack_size": 1000,
+        "material": [ 
+            "zinc",
+            "copper"
+        ],
+        "symbol": "-",
+        "color": "red"
+    },
+    {
+        "id": "hco_bullet_l",
+        "type": "AMMO",
+        "category": "other",
+        "name": "H Co. Bullet (L)",
+        "description": "A generic bullet that still needs to be shaped into the desired caliber form and design. This one is about the size of your hand.",
+        "volume": "0 ml",
+        "weight": "1 g",
+        "ammo_type": "components",
+        "count": 10,
+        "stack_size": 1000,
+        "material": [ 
+            "zinc",
+            "copper"
+        ],
+        "symbol": "-",
+        "color": "red"
+    },
+    {
+        "id": "hco_primer",
+        "type": "AMMO",
+        "category": "other",
+        "name": "H Co. Primer",
+        "description": "H Co. Primer is a universal primer that can realistically be used for any kind of standard ammunition. Still as dangerous to manufacture as normal primers are, however, once formed it is stable until inserted into the the ammunition production line.",
+        "weight": "0 g",
+        "volume": "0 ml",
+        "ammo_type": "components",
+        "count": 100,
+        "stack_size": 1000,
+        "symbol": ".",
+        "color": "red"
+	},
+    {
+        "id": "hco_powder",
+        "type": "AMMO",
+        "category": "other",
+        "name": "H Co. Powder",
+        "description": "H Co. Powder is a universal, smokeless gunpowder. One of the most stable of conventional gunpowders, H Co. Powder must be used in the ammunition manufacture process to become a dangerous explosive. While the recipe is widely available, the actual process by which this stability is acheived is still being researched... or it was until the Cataclysm happened.",
+        "weight": "0 g",
+        "volume": "0 ml",
+        "ammo_type": "components",
+        "count": 100,
+        "stack_size": 1000,
+        "symbol": ".",
+        "color": "red"
+    }
+]

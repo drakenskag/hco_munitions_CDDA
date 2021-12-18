@@ -1,0 +1,26 @@
+[
+    {
+        "id": "req_hco_cpress",
+        "type": "requirement",
+        "//": "uses hco case press",
+        "tools": [ [ [ "hco_casepress", -1 ] ] ]
+    },
+    {
+        "id": "req_hco_bext",
+        "type": "requirement",
+        "//": "uses hco bullet extruder",
+        "tools": [ [ [ "hco_bulletextruder", -1 ] ] ]
+    },
+    {
+        "id": "req_hco_ppress",
+        "type": "requirement",
+        "//": "uses hco priming press",
+        "tools": [ [ [ "hco_primingpress", -1 ] ] ]
+    },
+    {
+        "id": "req_hco_pturret",
+        "type": "requirement",
+        "//": "uses hco powder turret",
+        "tools": [ [ [ "hco_powderturret", -1 ] ] ]
+    }
+]

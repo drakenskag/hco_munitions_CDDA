@@ -1,0 +1,54 @@
+[
+    {
+        "type": "furniture",
+        "id": "f_hco_case_press",
+        "crafting_pseudo_item": "hco_casepress",
+        "name": "H Co. Case Press",
+        "description": "The H Co. Case Press. A compact, programmable casing press that takes care of extruding, pressing, and shaping of various ammunition casings as part of a larger, automated, munitions-manufacturing process.",
+        "symbol": "C",
+        "color": "red",
+        "move_cost_mod": -1,
+        "coverage": 75,
+        "required_str": -1,
+        "flags": [ "TRANSPARENT" ]
+    },
+    {
+        "type": "furniture",
+        "id": "f_hco_bullet_extruder",
+        "crafting_pseudo_item": "hco_bulletextruder",
+        "name": "H Co. Bullet Extruder",
+        "description": "The H Co. Bullet Extruder. Compact lead alloy creation, shaping and electroplating to create various sizes of ammunition precursors.",
+        "symbol": "B",
+        "color": "red",
+        "move_cost_mod": -1,
+        "coverage": 75,
+        "required_str": -1,
+        "flags": [ "TRANSPARENT" ]
+    },
+    {
+        "type": "furniture",
+        "id": "f_hco_priming_press",
+        "crafting_pseudo_item": "hco_primingpress",
+        "name": "H Co. Priming Press",
+        "description": "The H Co. Priming Press. One of the most compact (and dangerous) primer shaping and pressing environments in the modern age. A small sign on the side of the machine warns against smoking or starting fires in the vicinity of the machine. You ignore the warning because the worse that could happen is lung cancer, right?",
+        "symbol": "P",
+        "color": "red",
+        "move_cost_mod": -1,
+        "coverage": 75,
+        "required_str": -1,
+        "flags": [ "TRANSPARENT" ]
+    },
+    {
+        "type": "furniture",
+        "id": "f_hco_powder_turret",
+        "crafting_pseudo_item": "hco_powderturret",
+        "name": "H Co. Powder Turret",
+        "description": "The H Co. Powder Turret. A compact, automated ammunition loading solution from H Co. You wonder why handloaded rounds are so much worse than the factory stuff, but now that you have this you have no reason to handload again.",
+        "symbol": "T",
+        "color": "red",
+        "move_cost_mod": -1,
+        "coverage": 75,
+        "required_str": -1,
+        "flags": [ "TRANSPARENT" ]
+    }
+]
