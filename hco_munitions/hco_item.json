@@ -6,10 +6,11 @@
         "name": "H Co. Bullet (S)",
         "description": "A generic bullet that still needs to be shaped into the desired caliber form and design. This particular one is small.",
         "volume": "0 ml",
-        "weight": "1 g",
+        "weight": "0 g",
         "ammo_type": "components",
         "count": 100,
-        "stack_size": 1000,
+        "stack_size": 200,
+		"flags": [ "ZERO_WEIGHT" ],
         "material": [ 
             "zinc",
             "copper"
@@ -24,10 +25,11 @@
         "name": "H Co. Bullet (M)",
         "description": "A generic bullet that still needs to be shaped into the desired caliber form and design. This one seems to be of average size.",
         "volume": "0 ml",
-        "weight": "1 g",
+        "weight": "0 g",
         "ammo_type": "components",
         "count": 50,
-        "stack_size": 1000,
+        "stack_size": 200,
+		"flags": [ "ZERO_WEIGHT" ],
         "material": [ 
             "zinc",
             "copper"
@@ -42,10 +44,11 @@
         "name": "H Co. Bullet (L)",
         "description": "A generic bullet that still needs to be shaped into the desired caliber form and design. This one is about the size of your hand.",
         "volume": "0 ml",
-        "weight": "1 g",
+        "weight": "0 g",
         "ammo_type": "components",
         "count": 10,
-        "stack_size": 1000,
+        "stack_size": 200,
+		"flags": [ "ZERO_WEIGHT" ],
         "material": [ 
             "zinc",
             "copper"
@@ -63,7 +66,8 @@
         "volume": "0 ml",
         "ammo_type": "components",
         "count": 100,
-        "stack_size": 1000,
+        "stack_size": 200,
+		"flags": [ "ZERO_WEIGHT" ],
         "symbol": ".",
         "color": "red"
 	},
@@ -77,7 +81,8 @@
         "volume": "0 ml",
         "ammo_type": "components",
         "count": 100,
-        "stack_size": 1000,
+        "stack_size": 200,
+		"flags": [ "ZERO_WEIGHT" ],
         "symbol": ".",
         "color": "red"
     }

@@ -696,8 +696,7 @@
             [ [ "cooking_oil", 3 ], [ "cooking_oil2", 3 ] ],
             [ [ "chem_carbide", 100 ], [ "magnesium", 100 ] ],
             [ [ "chem_potassium_chloride", 100 ] ]
-        ],
-		"//": "[ [ "chem_glycerol", 750 ] ] [ [ "nitrogen_tank", 1 ] ],"
+        ]
     },
     {
         "type": "recipe",
