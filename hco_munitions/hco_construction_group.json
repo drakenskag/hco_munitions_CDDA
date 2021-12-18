@@ -1,0 +1,22 @@
+[
+	{
+		"type": "construction_group",
+		"id": "hco_cp_constr",
+		"name": "H Co. Case Press"
+	},
+	{
+		"type": "construction_group",
+		"id": "hco_be_constr",
+		"name": "H Co. Bullet Extruder"
+	},
+	{
+		"type": "construction_group",
+		"id": "hco_pp_constr",
+		"name": "H Co. Priming Press"
+	},
+	{
+		"type": "construction_group",
+		"id": "hco_pt_constr",
+		"name": "H Co. Powder Turret"
+	}
+]
