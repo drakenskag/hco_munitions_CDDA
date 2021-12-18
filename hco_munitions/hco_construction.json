@@ -28,7 +28,6 @@
 			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
 			[ [ "circuit", 2 ] ]
 		],
-		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_case_press"
@@ -63,7 +62,6 @@
 			[ [ "circuit", 2 ] ],
 			[ [ "crucible", 1 ] ]
 		],
-		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_bullet_extruder"
@@ -97,7 +95,6 @@
 			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
 			[ [ "circuit", 2 ] ]
 		],
-		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_priming_press"
@@ -131,7 +128,6 @@
 			[ [ "circuit", 5 ], [ "laptop", 1 ] ],
 			[ [ "circuit", 2 ] ]
 		],
-		"flags": [ "ZERO_WEIGHT" ],
         "pre_note": "furn description",
         "pre_special": "check_empty",
         "post_terrain": "f_hco_powder_turret"
