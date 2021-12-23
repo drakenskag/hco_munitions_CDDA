@@ -726,7 +726,6 @@
         "subcategory": "CSC_H CO_AMMO",
         "skill_used": "fabrication",
         "skills_required": [ [ "rifle", 3 ], [ "computer", 8 ] ],
-        "difficulty": 1,
         "difficulty": 1, "autolearn": true,
         "time": "8 m",
         "charges": 80,
